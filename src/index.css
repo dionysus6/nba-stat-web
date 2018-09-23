@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import '~antd/dist/antd.css';
 @import 'styles/App.css';
 @import 'styles/TopNavBar.css';
@@ -8,6 +9,8 @@
 @import "styles/SearchBar.css";
 
 
+=======
+>>>>>>> 72c901cf103bd4ed63d016cf372636d4d414102b
 body {
   margin: 0;
   padding: 0;

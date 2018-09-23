@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "nba-web",
   "version": "0.1.0",
   "private": true,
@@ -10,6 +11,15 @@
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "react-scripts": "1.1.4"
+=======
+  "name": "nba-stat-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5"
+>>>>>>> 72c901cf103bd4ed63d016cf372636d4d414102b
   },
   "scripts": {
     "start": "react-scripts start",
@@ -17,4 +27,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 72c901cf103bd4ed63d016cf372636d4d414102b
